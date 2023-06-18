@@ -1,0 +1,147 @@
+[
+  {
+    "id": 1,
+    "brand": "Tesla",
+    "name": "Model S",
+    "image": "https://example.com/images/model_s.jpg",
+    "description": "The Tesla Model S is a premium all-electric sedan that offers exhilarating performance, cutting-edge technology, and an impressive range. With its sleek design and luxurious interior, the Model S combines style and sustainability. Equipped with advanced autopilot features and a spacious cabin, this electric vehicle provides a comfortable and futuristic driving experience. The Model S comes with various power options, including a high-performance 'Plaid' variant that delivers mind-boggling acceleration and a top speed that rivals supercars. Experience the future of electric mobility with the Tesla Model S.",
+    "price": 79990,
+    "model": "S",
+    "vehicle_type": "Car",
+    "release_year": 2012,
+    "maximum_power": 1020
+  },
+  {
+    "id": 2,
+    "brand": "Nissan",
+    "name": "Leaf",
+    "image": "https://example.com/images/leaf.jpg",
+    "description": "The Nissan Leaf is a compact all-electric hatchback that is perfect for daily commutes and city driving. With its zero-emission electric motor and impressive range, the Leaf offers a sustainable and eco-friendly transportation solution. The Leaf features a modern and practical design, with ample cargo space and advanced safety features. Its responsive acceleration and smooth handling make it a joy to drive. Whether you're a first-time electric vehicle owner or a seasoned enthusiast, the Nissan Leaf is a reliable and affordable option that brings electric mobility to the masses.",
+    "price": 29990,
+    "model": "Leaf",
+    "vehicle_type": "Car",
+    "release_year": 2010,
+    "maximum_power": 147
+  },
+  {
+    "id": 3,
+    "brand": "Chevrolet",
+    "name": "Bolt EV",
+    "image": "https://example.com/images/bolt_ev.jpg",
+    "description": "The Chevrolet Bolt EV is a versatile all-electric crossover that combines practicality, efficiency, and fun. With its spacious interior and impressive range, the Bolt EV is ready for both daily commuting and weekend adventures. Its compact size and agile handling make it easy to maneuver in urban environments. The Bolt EV features modern styling, advanced technology, and a comfortable cabin with convenient amenities. With its affordable price and long electric range, the Chevrolet Bolt EV is a compelling choice for those looking to embrace electric driving without compromise.",
+    "price": 31995,
+    "model": "Bolt EV",
+    "vehicle_type": "Car",
+    "release_year": 2017,
+    "maximum_power": 200
+  },
+  {
+    "id": 4,
+    "brand": "BMW",
+    "name": "i3",
+    "image": "https://example.com/images/i3.jpg",
+    "description": "The BMW i3 is a compact electric vehicle with a futuristic design and an emphasis on sustainability. With its lightweight construction, electric drivetrain, and regenerative braking system, the i3 offers impressive efficiency and a low carbon footprint. The i3's unique exterior styling turns heads, while its spacious and tech-filled interior provides a comfortable driving experience. With its nimble handling and quick acceleration, the BMW i3 is a joy to drive in urban environments. Whether you're navigating city streets or seeking adventure, the BMW i3 offers a premium electric driving experience.",
+    "price": 44450,
+    "model": "i3",
+    "vehicle_type": "Car",
+    "release_year": 2013,
+    "maximum_power": 170
+  },
+  {
+    "id": 5,
+    "brand": "Hyundai",
+    "name": "Kona Electric",
+    "image": "https://example.com/images/kona_electric.jpg",
+    "description": "The Hyundai Kona Electric is a compact and stylish all-electric SUV that offers impressive range and practicality. With its sleek design, the Kona Electric stands out on the road and provides a comfortable and spacious interior. Its electric motor delivers instant acceleration, making it a fun and engaging driving experience. The Kona Electric is equipped with advanced safety features and modern technology, including a user-friendly infotainment system and smartphone integration. Whether you're commuting to work or embarking on a road trip, the Hyundai Kona Electric offers a reliable and eco-friendly transportation solution.",
+    "price": 37390,
+    "model": "Kona Electric",
+    "vehicle_type": "Car",
+    "release_year": 2018,
+    "maximum_power": 201
+  },
+  {
+    "id": 6,
+    "brand": "Audi",
+    "name": "e-tron",
+    "image": "https://example.com/images/e_tron.jpg",
+    "description": "The Audi e-tron is a premium all-electric SUV that combines luxury, performance, and cutting-edge technology. With its striking design and spacious interior, the e-tron offers a comfortable and refined driving experience. Its dual electric motors deliver instant torque and impressive acceleration, while its long electric range ensures worry-free journeys. The e-tron is equipped with advanced driver-assistance systems and innovative features, such as virtual side mirrors and a seamless infotainment system. Experience the future of electric mobility with the Audi e-tron and enjoy a new level of sustainable luxury.",
+    "price": 65900,
+    "model": "e-tron",
+    "vehicle_type": "Car",
+    "release_year": 2019,
+    "maximum_power": 402
+  },
+  {
+    "id": 7,
+    "brand": "Jaguar",
+    "name": "I-PACE",
+    "image": "https://example.com/images/i_pace.jpg",
+    "description": "The Jaguar I-PACE is a premium all-electric SUV that offers a perfect blend of performance, luxury, and sustainability. With its sleek and aerodynamic design, the I-PACE stands out on the road and provides a spacious and comfortable interior. Its dual electric motors deliver exhilarating acceleration, making it a thrilling driving experience. The I-PACE offers a long electric range and fast charging capabilities, ensuring you're always ready for your next adventure. Inside the cabin, you'll find premium materials, advanced technology, and a host of driver-assistance features. Embrace the future of electric luxury with the Jaguar I-PACE.",
+    "price": 69850,
+    "model": "I-PACE",
+    "vehicle_type": "Car",
+    "release_year": 2018,
+    "maximum_power": 394
+  },
+  {
+    "id": 8,
+    "brand": "Ford",
+    "name": "Mustang Mach-E",
+    "image": "https://example.com/images/mustang_mach_e.jpg",
+    "description": "The Ford Mustang Mach-E is an all-electric SUV that combines the iconic Mustang heritage with the latest electric vehicle technology. With its bold and muscular design, the Mustang Mach-E commands attention on the road and offers a comfortable and stylish interior. Its electric powertrain delivers impressive performance and acceleration, while its long electric range allows for extended journeys. The Mustang Mach-E is equipped with advanced features, including a state-of-the-art infotainment system and comprehensive safety technologies. Experience the thrill of driving an electric vehicle with the Ford Mustang Mach-E.",
+    "price":42895,
+    "model": "Mustang Mach-E",
+    "vehicle_type": "Car",
+    "release_year": 2021,
+    "maximum_power": 480
+  },
+  {
+    "id": 9,
+    "brand": "Volkswagen",
+    "name": "ID.4",
+    "image": "https://example.com/images/id4.jpg",
+    "description": "The Volkswagen ID.4 is a versatile all-electric SUV that combines practicality, style, and sustainability. With its sleek and modern design, the ID.4 offers a spacious and comfortable interior with advanced features. Its electric motor delivers smooth and responsive acceleration, making it a joy to drive. The ID.4 provides a long electric range, enabling you to go on longer journeys with confidence. With its commitment to sustainability and zero-emission mobility, Volkswagen is paving the way for a greener future. Experience the freedom of electric driving with the Volkswagen ID.4.",
+    "price": 39995,
+    "model": "ID.4",
+    "vehicle_type": "SUV",
+    "release_year": 2020,
+    "maximum_power": 201
+  },
+  {
+    "id": 10,
+    "brand": "Porsche",
+    "name": "Taycan",
+    "image": "https://example.com/images/taycan.jpg",
+    "description": "The Porsche Taycan is a high-performance all-electric sports car that embodies the brand's legendary performance and craftsmanship. With its stunning design and exhilarating acceleration, the Taycan delivers an electrifying driving experience. Its electric motors provide instant power and torque, propelling the car to incredible speeds. The Taycan offers a luxurious and technologically advanced interior, with features like a curved instrument cluster and a touchscreen infotainment system. Porsche's commitment to engineering excellence ensures that the Taycan provides exceptional handling and dynamics. Experience the future of sports cars with the Porsche Taycan.",
+    "price": 103800,
+    "model": "Taycan",
+    "vehicle_type": "Sports Car",
+    "release_year": 2019,
+    "maximum_power": 750
+  },
+  {
+    "id": 11,
+    "brand": "Mercedes-Benz",
+    "name": "EQC",
+    "image": "https://example.com/images/eqc.jpg",
+    "description": "The Mercedes-Benz EQC is a luxury all-electric SUV that combines elegance, performance, and sustainability. With its refined design and attention to detail, the EQC offers a comfortable and luxurious driving experience. Its dual electric motors deliver powerful acceleration and smooth handling, while its long electric range ensures you can travel with confidence. The EQC features a spacious and high-tech interior, with premium materials and advanced driver-assistance systems. Mercedes-Benz's renowned craftsmanship and commitment to innovation make the EQC a standout choice in the luxury electric SUV segment.",
+    "price": 67900,
+    "model": "EQC",
+    "vehicle_type": "SUV",
+    "release_year": 2019,
+    "maximum_power": 402
+  },
+
+  {
+    "id": 12,
+    "brand": "Rivian",
+    "name": "R1T",
+    "image": "https://example.com/images/r1t.jpg",
+    "description": "The Rivian R1T is an all-electric pickup truck that combines rugged capability with sustainable performance. With its bold and distinctive design, the R1T stands out on and off the road. Its electric drivetrain delivers impressive torque and off-road prowess, making it a true adventure companion. The R1T offers a spacious and versatile interior, with innovative storage solutions and advanced technology. With its long electric range and fast-charging capabilities, the Rivian R1T redefines what a pickup truck can be, providing both power and sustainability in one impressive package.",
+    "price": 67500,
+    "model": "R1T",
+    "vehicle_type": "Pickup Truck",
+    "release_year": 2021,
+    "maximum_power": 754
+  }
+]

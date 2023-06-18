@@ -5,16 +5,16 @@ const productSchema = new mongoose.Schema({
     type: Number,
     required: true,
   },
-  brand: {
-    type: String,
-    required: true,
-  },
   name: {
     type: String,
     required: true,
   },
-  image: {
+  brand: {
     type: String,
+    required: true,
+  },
+  imageUrl: {
+    type: [String],
     required: true,
   },
   description: {
@@ -25,13 +25,15 @@ const productSchema = new mongoose.Schema({
     type: Number,
     required: true,
   },
-  model: {
-    type: String,
-  },
   vehicle_type: {
     type: String,
+    required: true,
   },
   release_year: {
+    type: Number,
+    required: true,
+  },
+  rating: {
     type: Number,
   },
   maximum_power: {

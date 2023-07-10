@@ -4,15 +4,14 @@
     "name": "Tesla Model 3",
     "brand": "Tesla",
     "imageUrl": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/2019_Tesla_Model_3_Performance_AWD_Front.jpg/1920px-2019_Tesla_Model_3_Performance_AWD_Front.jpg",
-      "https://www.example.com/images/tesla-model-3-2.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/2019_Tesla_Model_3_Performance_AWD_Front.jpg/1920px-2019_Tesla_Model_3_Performance_AWD_Front.jpg"
     ],
     "description": "The Tesla Model 3 is an electric car manufactured by Tesla, Inc. It is a mid-size sedan that was first released in 2017. The Model 3 has a range of up to 358 miles on a single charge and can accelerate from 0 to 60 mph in 5.3 seconds. With its sleek design, advanced technology, and impressive performance, the Model 3 has become one of the most popular electric cars on the market. It offers a spacious interior, innovative features like Autopilot, and access to Tesla's Supercharger network for convenient long-distance travel. Packed with cutting-edge technology and a commitment to sustainability, the Tesla Model 3 is a top choice for those seeking an electric vehicle.",
-    "price": 46990,
+    "price": 7170000,
     "vehicle_type": "Car",
-    "release_year": 2017,
-    "rating": 4.5,
-    "maximum_power": 350
+    "release_year": 2021,
+    "rating": 9.7,
+    "maximum_power": 498
   },
   {
     "id": 2,
@@ -23,10 +22,10 @@
       "https://www.example.com/images/nissan-leaf-2.jpg"
     ],
     "description": "The Nissan LEAF is a compact electric car produced by Nissan. It was first introduced in 2010 and has since become one of the most popular electric vehicles worldwide. The latest model, released in 2021, offers an impressive range of up to 226 miles on a single charge. The LEAF features a comfortable interior, advanced safety features, and a smooth, quiet ride. With its affordable price point and eco-friendly nature, the Nissan LEAF is an excellent choice for those looking to switch to electric driving. Whether you're commuting to work or embarking on a road trip, the LEAF provides a reliable and efficient driving experience, making it a standout option in the electric car market.",
-    "price": 31400,
+    "price": 339400,
     "vehicle_type": "Car",
-    "release_year": 2021,
-    "rating": 4.2,
+    "release_year": 2022,
+    "rating": 9.1,
     "maximum_power": 147
   },
   {
@@ -34,29 +33,27 @@
     "name": "Chevrolet Bolt EV",
     "brand": "Chevrolet",
     "imageUrl": [
-      "https://images.thequint.com/thequint%2F2016-02%2F15ee3c7d-b1d0-4354-a635-30d0f51d828f%2FCruze-hero.jpg?auto=format%2Ccompress&fmt=webp&width=120&w=1200",
-      "https://www.example.com/images/chevrolet-bolt-ev-2.jpg"
+      "https://images.thequint.com/thequint%2F2016-02%2F15ee3c7d-b1d0-4354-a635-30d0f51d828f%2FCruze-hero.jpg?auto=format%2Ccompress&fmt=webp&width=120&w=1200"
     ],
     "description": "The Chevrolet Bolt EV is a compact electric car designed and manufactured by General Motors under the Chevrolet brand. Launched in 2016, the Bolt EV is known for its impressive electric range, offering up to 259 miles on a single charge. It combines a spacious interior with modern technology and features, making it a practical choice for everyday driving. The Bolt EV's smooth and quiet electric motor delivers responsive acceleration, providing a fun driving experience. With its affordable price and extensive range, the Chevrolet Bolt EV has gained popularity as a reliable electric vehicle in the market.",
-    "price": 36620,
+    "price": 2210478,
     "vehicle_type": "Car",
-    "release_year": 2020,
-    "rating": 4.0,
-    "maximum_power": 200
+    "release_year": 2023,
+    "rating": 8.9,
+    "maximum_power": 266
   },
   {
     "id": 4,
     "name": "Audi e-tron",
     "brand": "Audi",
     "imageUrl": [
-      "https://imgd.aeplcdn.com/0x0/n/cw/ec/39048/e-tron-exterior-right-front-three-quarter-2.jpeg?isig=0",
-      "https://www.example.com/images/audi-etron-2.jpg"
+      "https://imgd.aeplcdn.com/0x0/n/cw/ec/39048/e-tron-exterior-right-front-three-quarter-2.jpeg?isig=0"
     ],
     "description": "The Audi e-tron is a premium all-electric SUV manufactured by Audi. It was introduced in 2018 as Audi's first fully electric vehicle. The e-tron offers a luxurious interior, cutting-edge technology, and impressive performance. With its dual electric motors and quattro all-wheel drive, the e-tron delivers excellent acceleration and handling. It has a range of up to 222 miles on a single charge and supports fast charging, allowing for quick and convenient recharging. The Audi e-tron represents Audi's commitment to electric mobility while maintaining the brand's reputation for quality and craftsmanship.",
-    "price": 66900,
+    "price": 9866900,
     "vehicle_type": "Car",
-    "release_year": 2020,
-    "rating": 4.3,
+    "release_year": 2018,
+    "rating": 9,
     "maximum_power": 355
   },
   {
@@ -64,29 +61,28 @@
     "name": "Porsche Taycan",
     "brand": "Porsche",
     "imageUrl": [
-      "https://files.porsche.com/filestore/image/multimedia/none/j1-taycan-tu-s-modelimage-sideshot/model/60c967a4-ac79-11e9-80c4-005056bbdc38/porsche-model.png",
-      "https://www.example.com/images/porsche-taycan-2.jpg"
+      "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/Reviews/Porsche-Taycan-16.jpg&c=0",
+      "https://files.porsche.com/filestore/image/multimedia/none/j1-taycan-tu-s-modelimage-sideshot/model/60c967a4-ac79-11e9-80c4-005056bbdc38/porsche-model.png"
     ],
     "description": "The Porsche Taycan is a high-performance electric car produced by Porsche. It was first introduced in 2019 as Porsche's first fully electric vehicle. The Taycan combines Porsche's signature sporty design with cutting-edge electric technology. With its powerful electric motors and advanced battery system, the Taycan offers exhilarating performance and a long electric range of up to 280 miles. Its luxurious interior, innovative features, and precise handling make it a standout option in the luxury electric car segment. The Porsche Taycan represents the perfect blend of electric power and Porsche's renowned engineering excellence.",
-    "price": 79500,
+    "price": 16279500,
     "vehicle_type": "Car",
-    "release_year": 2020,
-    "rating": 4.8,
-    "maximum_power": 616
+    "release_year": 2023,
+    "rating": 9.1,
+    "maximum_power": 750
   },
   {
     "id": 6,
     "name": "Ford Mustang Mach-E",
     "brand": "Ford",
     "imageUrl": [
-      "https://upload.wikimedia.org/wikipedia/commons/4/49/2021_Ford_Mustang_Mach-E_Standard_Range_Front.jpg",
-      "https://www.example.com/images/ford-mustang-mach-e-2.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/4/49/2021_Ford_Mustang_Mach-E_Standard_Range_Front.jpg"
     ],
     "description": "The Ford Mustang Mach-E is an all-electric SUV introduced by Ford in 2020. As an extension of the iconic Mustang lineup, the Mach-E offers a blend of sportiness, performance, and electric efficiency. With a range of up to 305 miles on a single charge, the Mach-E combines the practicality of an SUV with the excitement of a Mustang. Its sleek design, spacious interior, and advanced technology features make it a compelling choice for electric car enthusiasts. The Mustang Mach-E showcases Ford's commitment to the electric future while embracing the spirit of the legendary Mustang brand.",
-    "price": 42695,
+    "price": 6942695,
     "vehicle_type": "Car",
     "release_year": 2021,
-    "rating": 4.4,
+    "rating": 8.8,
     "maximum_power": 480
   },
   {
@@ -94,15 +90,14 @@
     "name": "Hyundai Kona Electric",
     "brand": "Hyundai",
     "imageUrl": [
-      "https://gomechanic.in/blog/wp-content/uploads/2019/10/4A3FD731_ADB8_4484_848A_8340603372E2.0.jpeg",
-      "https://www.example.com/images/hyundai-kona-electric-2.jpg"
+      "https://gomechanic.in/blog/wp-content/uploads/2019/10/4A3FD731_ADB8_4484_848A_8340603372E2.0.jpeg"
     ],
     "description": "The Hyundai Kona Electric is a subcompact electric SUV manufactured by Hyundai. It was first released in 2018 and has gained popularity for its long electric range and affordable price. With a range of up to 258 miles on a single charge, the Kona Electric offers practicality for daily commuting and longer trips. It features a spacious interior, modern design, and advanced safety features. The Kona Electric's responsive electric motor provides quick acceleration and a smooth driving experience. Hyundai's warranty coverage and commitment to quality make the Kona Electric a reliable choice in the electric SUV market.",
-    "price": 37900,
+    "price": 2377900,
     "vehicle_type": "Car",
-    "release_year": 2020,
-    "rating": 4.1,
-    "maximum_power": 201
+    "release_year": 2022,
+    "rating": 9.2,
+    "maximum_power": 134
   },
   {
     "id": 8,
@@ -113,10 +108,10 @@
       "https://www.example.com/images/bmw-i3-2.jpg"
     ],
     "description": "The BMW i3 is a compact electric car manufactured by BMW. It was first introduced in 2013 and has since become one of BMW's flagship electric vehicles. The i3 features a distinctive design, combining sustainability with BMW's luxury and performance DNA. With a range of up to 153 miles on a single charge, the i3 offers an agile and efficient driving experience. Its futuristic interior, lightweight construction, and advanced technologies showcase BMW's dedication to electric mobility. The BMW i3 is a great option for urban driving and provides a glimpse into the future of electric transportation.",
-    "price": 44500,
+    "price": 9944500,
     "vehicle_type": "Car",
-    "release_year": 2020,
-    "rating": 4.0,
+    "release_year": 2022,
+    "rating": 9.2,
     "maximum_power": 168
   },
   {
@@ -124,14 +119,13 @@
     "name": "Mercedes-Benz EQC",
     "brand": "Mercedes-Benz",
     "imageUrl": [
-      "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_675,q_auto:eco,w_1200/v1/cms/uploads/mqqfbxbvhxxohomnwuhf",
-      "https://www.example.com/images/mercedes-benz-eqc-2.jpg"
+      "https://images.drive.com.au/driveau/image/upload/c_fill,f_auto,g_auto,h_675,q_auto:eco,w_1200/v1/cms/uploads/mqqfbxbvhxxohomnwuhf"
     ],
     "description": "The Mercedes-Benz EQC is a luxury electric SUV produced by Mercedes-Benz. It was first launched in 2019 as part of Mercedes-Benz's EQ electric vehicle lineup. The EQC combines the elegance and refinement expected from Mercedes-Benz with the benefits of electric power. With a range of up to 259 miles on a single charge, the EQC offers a comfortable and serene driving experience. Its spacious interior, advanced safety features, and cutting-edge technology make it a compelling choice in the luxury electric SUV segment. The Mercedes-Benz EQC represents the brand's commitment to sustainable mobility without compromising on luxury and performance.",
-    "price": 67900,
+    "price": 9967900,
     "vehicle_type": "Car",
     "release_year": 2020,
-    "rating": 4.3,
+    "rating": 8.7,
     "maximum_power": 402
   },
   {
@@ -139,14 +133,13 @@
     "name": "Volkswagen ID.4",
     "brand": "Volkswagen",
     "imageUrl": [
-      "https://images.hindustantimes.com/auto/img/2022/01/09/1600x900/Volkswagen_ID.4_GTX_(4)_1619669596875_1641713814517.jpg",
-      "https://www.example.com/images/volkswagen-id4-2.jpg"
+      "https://images.hindustantimes.com/auto/img/2022/01/09/1600x900/Volkswagen_ID.4_GTX_(4)_1619669596875_1641713814517.jpg"
     ],
     "description": "The Volkswagen ID.4 is an all-electric compact SUV produced by Volkswagen. It was introduced in 2020 as part of Volkswagen's ID electric vehicle family. The ID.4 offers a spacious and versatile interior, making it suitable for both daily commuting and weekend adventures. With a range of up to 250 miles on a single charge, the ID.4 provides reliable and efficient electric driving. It features modern design elements, advanced technology, and a comfortable cabin. The Volkswagen ID.4 embodies Volkswagen's commitment to electric mobility and offers a practical and sustainable choice in the compact SUV market.",
-    "price": 39995,
+    "price": 4439995,
     "vehicle_type": "Car",
     "release_year": 2021,
-    "rating": 4.2,
+    "rating": 9.2,
     "maximum_power": 201
   },
   {
@@ -154,14 +147,13 @@
     "name": "Kia Niro EV",
     "brand": "Kia",
     "imageUrl": [
-      "https://cdni.autocarindia.com/ExtraImages/20211125123003_kia_niro_1.jpg",
-      "https://www.example.com/images/kia-niro-ev-2.jpg"
+      "https://cdni.autocarindia.com/ExtraImages/20211125123003_kia_niro_1.jpg"
     ],
     "description": "The Kia Niro EV is an all-electric crossover SUV manufactured by Kia. It was first introduced in 2018 and has gained popularity for its practicality and efficient electric drivetrain. The Niro EV offers a spacious and comfortable interior, making it a great choice for families. With a range of up to 239 miles on a single charge, the Niro EV provides ample range for daily driving and longer trips. It features modern design elements, advanced safety features, and convenient technology. The Kia Niro EV showcases Kia's commitment to sustainability and offers a reliable and eco-friendly option in the electric SUV market.",
-    "price": 39490,
+    "price": 3839490,
     "vehicle_type": "Car",
-    "release_year": 2020,
-    "rating": 4.0,
+    "release_year": 2023,
+    "rating": 9.1,
     "maximum_power": 201
   },
   {
@@ -169,26 +161,24 @@
     "name": "Rivian R1T",
     "brand": "Rivian",
     "imageUrl": [
-      "https://static.toiimg.com/thumb/msid-79799259,width-1280,height-720,resizemode-4/.jpg",
-      "https://www.example.com/images/rivian-r1t-2.jpg"
+      "https://static.toiimg.com/thumb/msid-79799259,width-1280,height-720,resizemode-4/.jpg"
     ],
     "description": "The Rivian R1T is an all-electric pickup truck produced by Rivian, an American electric vehicle manufacturer. It was first unveiled in 2018 and is set to revolutionize the pickup truck segment. The R1T combines the ruggedness and versatility of a pickup truck with the benefits of electric power. With its impressive range of up to 300 miles on a single charge, the R1T is ready for both off-road adventures and everyday utility. It features a spacious and luxurious interior, innovative storage solutions, and advanced off-road capabilities. The Rivian R1T represents the future of electric pickups, offering both power and sustainability.",
-    "price": 69900,
+    "price": 5469900,
     "vehicle_type": "Car",
     "release_year": 2021,
-    "rating": 4.5,
-    "maximum_power": 754
+    "rating": 9.3,
+    "maximum_power": 835
   },
   {
     "id": 13,
     "name": "Volvo XC40 Recharge",
     "brand": "Volvo",
     "imageUrl": [
-      "https://imgd.aeplcdn.com/0x0/n/cw/ec/51766/xc40-recharge-exterior-right-front-three-quarter-2.jpeg?isig=0",
-      "https://www.example.com/images/volvo-xc40-recharge-2.jpg"
+      "https://imgd.aeplcdn.com/0x0/n/cw/ec/51766/xc40-recharge-exterior-right-front-three-quarter-2.jpeg?isig=0"
     ],
     "description": "The Volvo XC40 Recharge is an all-electric compact SUV produced by Volvo Cars. It was first introduced in 2020 as Volvo's first fully electric vehicle. The XC40 Recharge combines Volvo's signature Scandinavian design with the benefits of electric power. With a range of up to 208 miles on a single charge, the XC40 Recharge offers practicality and sustainability for urban driving. It features a luxurious and tech-forward interior, advanced safety features, and intuitive infotainment systems. The Volvo XC40 Recharge represents Volvo's commitment to a greener future without compromising on safety and style.",
-    "price": 53995,
+    "price": 5653995,
     "vehicle_type": "Car",
     "release_year": 2021,
     "rating": 4.3,
@@ -203,10 +193,10 @@
       "https://www.example.com/images/jaguar-ipace-2.jpg"
     ],
     "description": "The Jaguar I-PACE is an all-electric SUV produced by Jaguar Land Rover. It was first introduced in 2018 and represents Jaguar's entry into the electric vehicle market. The I-PACE offers a luxurious and sporty design, combined with impressive electric performance. With a range of up to 253 miles on a single charge, the I-PACE provides a blend of comfort, style, and sustainability. Its spacious interior, advanced technology features, and dynamic driving dynamics make it a compelling choice for those seeking an electric SUV. The Jaguar I-PACE exemplifies Jaguar's commitment to innovation and electric mobility.",
-    "price": 69900,
+    "price": 10669900,
     "vehicle_type": "Car",
-    "release_year": 2018,
-    "rating": 4.4,
+    "release_year": 2022,
+    "rating": 9.7,
     "maximum_power": 394
   },
   {
@@ -214,14 +204,13 @@
     "name": "Lucid Air",
     "brand": "Lucid Motors",
     "imageUrl": [
-      "https://car-images.bauersecure.com/wp-images/13354/lucidair_100.jpg",
-      "https://www.example.com/images/lucid-air-2.jpg"
+      "https://car-images.bauersecure.com/wp-images/13354/lucidair_100.jpg"
     ],
     "description": "The Lucid Air is a luxury electric sedan produced by Lucid Motors. It was first unveiled in 2020 and has garnered attention for its impressive range and cutting-edge technology. The Air offers exceptional luxury and performance, rivaling top-tier luxury sedans. With a range of up to 520 miles on a single charge, the Air sets a new standard for electric vehicle range. Its spacious and opulent interior, advanced driver-assistance features, and futuristic design make it a standout option in the luxury electric sedan market. The Lucid Air embodies Lucid Motors' vision of redefining the electric car experience.",
-    "price": 69900,
+    "price": 5769900,
     "vehicle_type": "Car",
     "release_year": 2021,
-    "rating": 4.7,
+    "rating": 9.7,
     "maximum_power": 1080
   },
   {
@@ -229,164 +218,58 @@
     "name": "Rimac Nevera",
     "brand": "Rimac Automobili",
     "imageUrl": [
-      "https://www.motortrend.com/uploads/2023/05/Rimac-Nevera-World-Record-9.png",
-      "https://www.example.com/images/rimac-nevera-2.jpg"
+      "https://www.motortrend.com/uploads/2023/05/Rimac-Nevera-World-Record-9.png"
     ],
     "description": "The Rimac Nevera is an all-electric hypercar produced by Rimac Automobili, a Croatian electric vehicle manufacturer. It was first introduced in 2021 and represents the pinnacle of electric vehicle performance. The Nevera offers mind-blowing acceleration and top speed, thanks to its powerful electric motors and advanced aerodynamics. With a range of up to 340 miles on a single charge, the Nevera combines impressive range with extraordinary performance. Its stunning design, luxurious interior, and advanced technology make it a true masterpiece of electric engineering. The Rimac Nevera pushes the boundaries of what is possible in an electric hypercar.",
     "price": 2750000,
     "vehicle_type": "Car",
-    "release_year": 2021,
-    "rating": 4.9,
+    "release_year": 2022,
+    "rating": 9.9,
     "maximum_power": 1914
   },
-  {
-    "id": 17,
-    "name": "Nissan Leaf",
-    "brand": "Nissan",
-    "imageUrl": [
-      "https://imgd.aeplcdn.com/1200x900/cw/ec/30878/Nissan-Leaf-106834.jpg?wm=0",
-      "https://www.example.com/images/nissan-leaf-2.jpg"
-    ],
-    "description": "The Nissan Leaf is a compact electric car manufactured by Nissan. It was first introduced in 2010 and has since become one of the best-selling electric vehicles worldwide. The Leaf offers practicality, efficiency, and affordability in the electric car market. With a range of up to 226 miles on a single charge, the Leaf is suitable for daily commuting and urban driving. It features a comfortable interior, user-friendly technology, and regenerative braking. The Nissan Leaf represents Nissan's commitment to electric mobility for the masses and has played a significant role in popularizing electric vehicles.",
-    "price": 31400,
-    "vehicle_type": "Car",
-    "release_year": 2020,
-    "rating": 4.1,
-    "maximum_power": 214
-  },
-  {
-    "id": 18,
-    "name": "Chevrolet Bolt EV",
-    "brand": "Chevrolet",
-    "imageUrl": [
-      "https://media.ed.edmunds-media.com/chevrolet/bolt-ev/2023/oem/2023_chevrolet_bolt-ev_4dr-hatchback_2lt_fq_oem_1_1280.jpg",
-      "https://www.example.com/images/chevrolet-bolt-ev-2.jpg"
-    ],
-    "description": "The Chevrolet Bolt EV is a compact electric car manufactured by Chevrolet. It was first introduced in 2016 and has gained recognition for its long electric range and affordable price. With a range of up to 259 miles on a single charge, the Bolt EV offers practicality for daily driving and road trips. It features a spacious interior, modern design, and convenient technology. The Bolt EV's responsive electric motor provides zippy acceleration and enjoyable handling. Chevrolet's commitment to electric mobility is evident in the Bolt EV, providing an accessible and efficient electric car option.",
-    "price": 35990,
-    "vehicle_type": "Car",
-    "release_year": 2020,
-    "rating": 4.2,
-    "maximum_power": 200
-  },
+
   {
     "id": 19,
     "name": "Tesla Model S",
     "brand": "Tesla",
     "imageUrl": [
-      "https://m.economictimes.com/thumb/msid-83426098,width-1200,height-900,resizemode-4,imgsize-243506/elon-musk-has-called-the-model-s-plaid-the-fastest-accelerating-car-ever-.jpg",
-      "https://www.example.com/images/tesla-model-s-2.jpg"
+      "https://m.economictimes.com/thumb/msid-83426098,width-1200,height-900,resizemode-4,imgsize-243506/elon-musk-has-called-the-model-s-plaid-the-fastest-accelerating-car-ever-.jpg"
     ],
     "description": "The Tesla Model S is a luxury all-electric sedan produced by Tesla, Inc. It was first introduced in 2012 and is known for its groundbreaking electric range, impressive acceleration, and cutting-edge technology. The Model S offers various configurations with different range options, from 375 miles to 520 miles on a single charge. Its sleek design, spacious interior, and advanced Autopilot system set it apart in the luxury sedan market. The Model S has been at the forefront of electric vehicle innovation, and its continuous updates and improvements have made it a symbol of Tesla's commitment to electric mobility.",
-    "price": 79990,
+    "price": 14449990,
     "vehicle_type": "Car",
     "release_year": 2021,
-    "rating": 4.8,
+    "rating": 9.8,
     "maximum_power": 1020
   },
-  {
-    "id": 20,
-    "name": "Tesla Model 3",
-    "brand": "Tesla",
-    "imageUrl": [
-      "https://images.91wheels.com/assets/c_images/gallery/tesla/model-3/tesla-model-3-0-1626249225.jpg",
-      "https://www.example.com/images/tesla-model-3-2.jpg"
-    ],
-    "description": "The Tesla Model 3 is a compact all-electric sedan produced by Tesla, Inc. It was first introduced in 2017 and has become one of the most popular electric cars in the world. The Model 3 offers a balance of range, performance, and affordability. With a range of up to 353 miles on a single charge, the Model 3 is suitable for both daily commuting and long-distance driving. It features minimalist interior design, advanced technology, and excellent safety ratings. The Model 3 has played a significant role in accelerating the transition to electric vehicles and represents Tesla's mission to make sustainable transportation accessible to all.",
-    "price": 39990,
-    "vehicle_type": "Car",
-    "release_year": 2021,
-    "rating": 4.7,
-    "maximum_power": 450
-  },
+
   {
     "id": 21,
     "name": "Tesla Model X",
     "brand": "Tesla",
     "imageUrl": [
-      "https://ev-database.org/img/auto/Tesla_Model_X_2021/Tesla_Model_X_2021-01.jpg",
-      "https://www.example.com/images/tesla-model-x-2.jpg"
+      "https://ev-database.org/img/auto/Tesla_Model_X_2021/Tesla_Model_X_2021-01.jpg"
     ],
     "description": "The Tesla Model X is a luxury all-electric SUV produced by Tesla, Inc. It was first introduced in 2015 and stands out for its falcon-wing doors, spacious interior, and exceptional electric range. With a range of up to 360 miles on a single charge, the Model X offers practicality and versatility for daily driving and family adventures. It features a premium interior, advanced safety features, and impressive acceleration. The Model X combines luxury, performance, and sustainability, making it a popular choice among electric SUV enthusiasts. Tesla's continuous updates and innovative features ensure that the Model X remains at the forefront of electric vehicle technology.",
-    "price": 89990,
+    "price": 22289990,
     "vehicle_type": "Car",
     "release_year": 2021,
-    "rating": 4.6,
+    "rating": 9.6,
     "maximum_power": 1020
   },
-  {
-    "id": 22,
-    "name": "Audi e-tron",
-    "brand": "Audi",
-    "imageUrl": [
-      "https://imgd.aeplcdn.com/1200x900/n/cw/ec/47073/e-tron-gt-exterior-right-front-three-quarter-2.jpeg?isig=0&q=75",
-      "https://www.example.com/images/audi-etron-2.jpg"
-    ],
-    "description": "The Audi e-tron is a luxury electric SUV produced by Audi. It was first introduced in 2018 and represents Audi's entry into the electric vehicle market. The e-tron offers a refined and comfortable driving experience, combined with Audi's signature craftsmanship. With a range of up to 222 miles on a single charge, the e-tron provides ample range for daily commuting and longer trips. It features a stylish and spacious interior, advanced technology, and Audi's renowned Quattro all-wheel drive system. The Audi e-tron showcases Audi's commitment to electric mobility without compromising on performance or luxury.",
-    "price": 65900,
-    "vehicle_type": "Car",
-    "release_year": 2020,
-    "rating": 4.3,
-    "maximum_power": 355
-  },
-  {
-    "id": 23,
-    "name": "Porsche Taycan",
-    "brand": "Porsche",
-    "imageUrl": [
-      "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cms.haymarketindia.net/model/uploads/modelimages/Porsche-Taycan-190820221318.jpg&w=730&h=484&q=75&c=1",
-      "https://www.example.com/images/porsche-taycan-2.jpg"
-    ],
-    "description": "The Porsche Taycan is a luxury all-electric sports car produced by Porsche. It was first introduced in 2019 and has quickly gained acclaim for its exceptional performance and driving dynamics. The Taycan offers a thrilling electric driving experience, combining blistering acceleration with precise handling. With a range of up to 227 miles on a single charge, the Taycan delivers exhilarating performance without compromising on practicality. Its luxurious and driver-focused interior, advanced technology, and iconic Porsche design elements make it a standout choice for electric sports car enthusiasts. The Porsche Taycan represents Porsche's commitment to electrification while maintaining the brand's storied performance heritage.",
-    "price": 81500,
-    "vehicle_type": "Car",
-    "release_year": 2021,
-    "rating": 4.9,
-    "maximum_power": 750
-  },
-  {
-    "id": 24,
-    "name": "Ford Mustang Mach-E",
-    "brand": "Ford",
-    "imageUrl": [
-      "https://www.cnet.com/a/img/resize/a270a84a3012ab04045b71febd6c4339d5ef0ac6/hub/2019/11/07/eafc3243-f819-4cf4-934f-73388b0906c8/rs-ford-mustang-mache-36.jpg?auto=webp&fit=crop&height=675&width=1200",
-      "https://www.example.com/images/ford-mustang-mach-e-2.jpg"
-    ],
-    "description": "The Ford Mustang Mach-E is an all-electric SUV produced by Ford. It was first introduced in 2020 and represents Ford's entry into the electric vehicle market. The Mustang Mach-E combines the iconic Mustang name with the benefits of electric power. With a range of up to 305 miles on a single charge, the Mach-E offers practicality for daily driving and road trips. It features a sporty and aerodynamic design, spacious interior, and advanced technology. The Mustang Mach-E showcases Ford's commitment to electrification while providing an exhilarating and eco-friendly driving experience.",
-    "price": 42995,
-    "vehicle_type": "Car",
-    "release_year": 2021,
-    "rating": 4.4,
-    "maximum_power": 480
-  },
-  {
-    "id": 25,
-    "name": "Hyundai Kona Electric",
-    "brand": "Hyundai",
-    "imageUrl": [
-      "https://imgd.aeplcdn.com/664x374/cw/ec/29580/Hyundai-Kona-Electric-Right-Front-Three-Quarter-162185.jpg?wm=0&q=75",
-      "https://www.example.com/images/hyundai-kona-electric-2.jpg"
-    ],
-    "description": "The Hyundai Kona Electric is a compact electric SUV produced by Hyundai. It was first introduced in 2018 and has gained popularity for its efficient electric drivetrain and affordable price. The Kona Electric offers a range of up to 258 miles on a single charge, making it suitable for daily commuting and longer journeys. It features a stylish and modern design, comfortable interior, and user-friendly technology. The Kona Electric showcases Hyundai's commitment to sustainable transportation and provides an accessible option for those looking to switch to electric vehicles.",
-    "price": 37400,
-    "vehicle_type": "Car",
-    "release_year": 2020,
-    "rating": 4.3,
-    "maximum_power": 201
-  },
+
   {
     "id": 26,
     "name": "eBike X1",
     "brand": "eBike",
     "imageUrl": [
-      "https://ar-euro.s3.ap-south-1.amazonaws.com/ind-website-2.0/original/cards-and-cartimages/X1-blue.png",
-      "https://www.example.com/images/ebike-x1-2.jpg"
+      "https://ar-euro.s3.ap-south-1.amazonaws.com/ind-website-2.0/original/cards-and-cartimages/X1-blue.png"
     ],
     "description": "The eBike X1 is a powerful electric bike designed for urban commuting. It features a sleek design and advanced features. With a top speed of 25 mph and a range of up to 60 miles, it offers a convenient and eco-friendly transportation option. The eBike X1 comes with a reliable electric motor and a removable battery pack. It also includes features such as LED lights, hydraulic disc brakes, and a digital display for easy control and monitoring. Enjoy a smooth and comfortable ride with the eBike X1.",
-    "price": 1899,
+    "price": 142102,
     "vehicle_type": "Bike",
     "release_year": 2021,
-    "rating": 4.2,
+    "rating": 8.5,
     "maximum_power": 750
   },
   {
@@ -394,44 +277,41 @@
     "name": "Gazelle Ultimate C8",
     "brand": "Gazelle",
     "imageUrl": [
-      "https://cloudinary.pondigital.solutions/pon-digital-solutions/image/upload/q_auto,f_auto/dmp.pon.bike/1280_M8Pg5aREu51.png",
-      "https://www.example.com/images/gazelle-ultimate-c8-2.jpg"
+      "https://cloudinary.pondigital.solutions/pon-digital-solutions/image/upload/q_auto,f_auto/dmp.pon.bike/1280_M8Pg5aREu51.png"
     ],
     "description": "The Gazelle Ultimate C8 is a premium electric bike that combines style, comfort, and performance. It features a lightweight aluminum frame and a powerful electric motor. With its 500Wh battery, the Gazelle Ultimate C8 provides a range of up to 80 miles on a single charge. The bike comes equipped with an advanced Shimano Nexus 8-speed hub gear system, hydraulic disc brakes, and front and rear suspension for a smooth and enjoyable ride. Experience the ultimate in electric biking with the Gazelle Ultimate C8.",
-    "price": 2799,
+    "price": 42799,
     "vehicle_type": "Bike",
     "release_year": 2022,
-    "rating": 4.8,
-    "maximum_power": 500
+    "rating": 9.2,
+    "maximum_power": 250
   },
   {
     "id": 28,
     "name": "Specialized Turbo Levo",
     "brand": "Specialized",
     "imageUrl": [
-      "https://assets.specialized.com/i/specialized/95220-50_LEVO-COMP-29-BLK-BLK_FDSQ?bg=rgb(241,241,241)&w=2500&h=1406&fmt=auto",
-      "https://www.example.com/images/specialized-turbo-levo-2.jpg"
+      "https://assets.specialized.com/i/specialized/95220-50_LEVO-COMP-29-BLK-BLK_FDSQ?bg=rgb(241,241,241)&w=2500&h=1406&fmt=auto"
     ],
     "description": "The Specialized Turbo Levo is a high-performance electric mountain bike that takes your off-road adventures to the next level. It features a durable and lightweight frame, combined with a powerful electric motor and a long-lasting battery. The Turbo Levo offers multiple levels of pedal-assist and comes equipped with a suspension system, hydraulic disc brakes, and rugged tires for excellent traction. Whether you're climbing steep trails or descending with confidence, the Specialized Turbo Levo delivers an exhilarating ride for all your mountain biking pursuits.",
-    "price": 5499,
+    "price": 145499,
     "vehicle_type": "Bike",
-    "release_year": 2020,
-    "rating": 4.6,
-    "maximum_power": 750
+    "release_year": 2023,
+    "rating": 9.3,
+    "maximum_power": 1640
   },
   {
     "id": 29,
     "name": "Rad Power Bikes RadRover 6 Plus",
     "brand": "Rad Power Bikes",
     "imageUrl": [
-      "https://cdn.shopify.com/s/files/1/2422/8407/products/R6HS_1.jpg?v=1626457974",
-      "https://www.example.com/images/radrover-6-plus-2.jpg"
+      "https://cdn.shopify.com/s/files/1/2422/8407/products/R6HS_1.jpg?v=1626457974"
     ],
     "description": "The Rad Power Bikes RadRover 6 Plus is a versatile and capable electric bike designed for all-terrain riding. It features a rugged frame, fat tires, and a powerful electric motor. With its 750W motor and large capacity battery, the RadRover 6 Plus offers impressive power and a range of up to 60 miles. The bike comes with front suspension, hydraulic disc brakes, and integrated lights for enhanced safety and comfort. Whether you're exploring city streets or hitting the trails, the RadRover 6 Plus delivers a thrilling and reliable electric biking experience.",
-    "price": 1799,
+    "price": 141799,
     "vehicle_type": "Bike",
-    "release_year": 2021,
-    "rating": 4.4,
+    "release_year": 2023,
+    "rating": 9.1,
     "maximum_power": 750
   },
   {
@@ -443,25 +323,24 @@
       "https://www.example.com/images/vanmoof-s3-2.jpg"
     ],
     "description": "The VanMoof S3 is a sleek and stylish electric bike designed for urban commuting. It features a lightweight aluminum frame and integrated smart features. The S3 comes with a powerful electric motor and a removable battery pack, offering a range of up to 90 miles on a single charge. The bike includes advanced features such as automatic electronic gear shifting, integrated lights, anti-theft tracking, and a digital display. With its smooth ride and modern design, the VanMoof S3 is the perfect electric bike for city dwellers.",
-    "price": 1998,
+    "price": 61998,
     "vehicle_type": "Bike",
     "release_year": 2020,
-    "rating": 4.7,
-    "maximum_power": 350
+    "rating": 8.9,
+    "maximum_power": 250
   },
   {
     "id": 31,
     "name": "Cannondale Quick Neo SL 2",
     "brand": "Cannondale",
     "imageUrl": [
-      "https://embed.widencdn.net/img/dorelrl/lls93vdbrb/2000px@1x/C20_C63300M_Quick_Neo_1_BPL_PD.png",
-      "https://www.example.com/images/cannondale-quick-neo-sl2-2.jpg"
+      "https://embed.widencdn.net/img/dorelrl/lls93vdbrb/2000px@1x/C20_C63300M_Quick_Neo_1_BPL_PD.png"
     ],
     "description": "The Cannondale Quick Neo SL 2 is a lightweight and agile electric bike designed for fitness and urban commuting. It features a durable and responsive aluminum frame and a powerful electric motor. With its 250Wh battery, the Quick Neo SL 2 provides a range of up to 60 miles on a single charge. The bike comes equipped with a Shimano 9-speed drivetrain, hydraulic disc brakes, and fast-rolling tires for efficient and enjoyable rides. Whether you're looking to boost your fitness or enjoy a faster commute, the Cannondale Quick Neo SL 2 has you covered.",
-    "price": 2500,
+    "price": 192500,
     "vehicle_type": "Bike",
     "release_year": 2021,
-    "rating": 4.3,
+    "rating": 9.3,
     "maximum_power": 250
   },
   {
@@ -469,29 +348,27 @@
     "name": "Riese & Müller Supercharger2",
     "brand": "Riese & Müller",
     "imageUrl": [
-      "https://s14761.pcdn.co/wp-content/uploads/sites/2/2021/03/Riese-Mueller-Supercharger-2-Test-Review-2020-042.jpg",
-      "https://www.example.com/images/riese-muller-supercharger2-2.jpg"
+      "https://s14761.pcdn.co/wp-content/uploads/sites/2/2021/03/Riese-Mueller-Supercharger-2-Test-Review-2020-042.jpg"
     ],
     "description": "The Riese & Müller Supercharger2 is a premium electric bike that offers a combination of comfort, power, and versatility. It features a robust and stylish frame, a powerful Bosch Performance Line CX motor, and a high-capacity battery. With its dual battery system, the Supercharger2 provides an extended range of up to 120 miles. The bike comes equipped with high-quality components, including a Shimano Deore XT 11-speed drivetrain, hydraulic disc brakes, and front suspension. Experience exceptional performance and long-distance riding with the Riese & Müller Supercharger2.",
-    "price": 5299,
+    "price": 775299,
     "vehicle_type": "Bike",
-    "release_year": 2022,
+    "release_year": 2023,
     "rating": 4.9,
-    "maximum_power": 1000
+    "maximum_power": 750
   },
   {
     "id": 33,
     "name": "Juiced Bikes RipCurrent S",
     "brand": "Juiced Bikes",
     "imageUrl": [
-      "https://cdn.shopify.com/s/files/1/1009/9108/products/RipCurrentS-2023-Black-RightSide.jpg?v=1672870134",
-      "https://www.example.com/images/juiced-bikes-ripcurrent-s-2.jpg"
+      "https://cdn.shopify.com/s/files/1/1009/9108/products/RipCurrentS-2023-Black-RightSide.jpg?v=1672870134"
     ],
     "description": "The Juiced Bikes RipCurrent S is a powerful and rugged electric bike designed for off-road adventures. It features a sturdy frame, fat tires, and a high-torque motor. With its 52V battery, the RipCurrent S offers a range of up to 75 miles on a single charge. The bike includes front and rear suspension, hydraulic disc brakes, and a color display for easy control and monitoring. Whether you're exploring sandy beaches or tackling challenging trails, the Juiced Bikes RipCurrent S provides the performance and reliability you need.",
-    "price": 2499,
+    "price": 162499,
     "vehicle_type": "Bike",
     "release_year": 2021,
-    "rating": 4.6,
+    "rating": 9.2,
     "maximum_power": 750
   },
   {
@@ -499,29 +376,25 @@
     "name": "Haibike XDURO AllMtn 3.0",
     "brand": "Haibike",
     "imageUrl": [
-      "https://www.cynergyebikes.com/v/vspfiles/photos/HB_XDuro_All_Mountain_3.0-2.png",
-      "https://www.example.com/images/haibike-xduro-allmtn-3-2.jpg"
+      "https://www.cynergyebikes.com/v/vspfiles/photos/HB_XDuro_All_Mountain_3.0-2.png"
     ],
     "description": "The Haibike XDURO AllMtn 3.0 is a versatile and capable electric mountain bike built for challenging terrains. It features a robust frame, full suspension, and a powerful Bosch Performance Line CX motor. With its 625Wh battery, the XDURO AllMtn 3.0 provides a range of up to 90 miles on a single charge. The bike comes equipped with a Shimano Deore 12-speed drivetrain, hydraulic disc brakes, and durable tires for excellent traction. Whether you're climbing steep hills or descending technical trails, the Haibike XDURO AllMtn 3.0 delivers an exhilarating and confident ride.",
-    "price": 5699,
+    "price": 75699,
     "vehicle_type": "Bike",
     "release_year": 2022,
-    "rating": 4.8,
-    "maximum_power": 1000
+    "rating": 8.8,
+    "maximum_power": 2200
   },
   {
     "id": 35,
     "name": "Tern Vektron S10",
     "brand": "Tern",
-    "imageUrl": [
-      "https://www.bikeride.com/images/bike/Tern-Vektron.jpg",
-      "https://www.example.com/images/tern-vektron-s10-2.jpg"
-    ],
+    "imageUrl": ["https://www.bikeride.com/images/bike/Tern-Vektron.jpg"],
     "description": "The Tern Vektron S10 is a compact and folding electric bike designed for urban mobility. It features a lightweight and foldable frame, making it easy to carry and store. The Vektron S10 is equipped with a Bosch Performance Line motor and a high-capacity battery, providing a range of up to 90 miles. The bike comes with a Shimano Deore 10-speed drivetrain, hydraulic disc brakes, and integrated lights for enhanced visibility. Whether you're commuting to work or exploring the city, the Tern Vektron S10 offers convenience and performance in a compact package.",
-    "price": 3499,
+    "price": 303499,
     "vehicle_type": "Bike",
-    "release_year": 2021,
-    "rating": 4.5,
+    "release_year": 2023,
+    "rating": 9.5,
     "maximum_power": 250
   },
   {
@@ -529,30 +402,28 @@
     "name": "Bulls Six50 EVO AM 3",
     "brand": "Bulls",
     "imageUrl": [
-      "https://electricbikereview.com/wp-content/assets/2017/11/bulls-six50-evo-am-3-electric-bike-review-1200x600-c-default.jpg",
-      "https://www.example.com/images/bulls-six50-evo-am-3-2.jpg"
+      "https://electricbikereview.com/wp-content/assets/2017/11/bulls-six50-evo-am-3-electric-bike-review-1200x600-c-default.jpg"
     ],
     "description": "The Bulls Six50 EVO AM 3 is a full-suspension electric mountain bike designed for trail riding and adventure. It features a durable aluminum frame, a powerful Brose Drive S Mag motor, and a long-lasting battery. With its 720Wh battery, the Six50 EVO AM 3 provides a range of up to 90 miles on a single charge. The bike comes equipped with a SRAM NX Eagle 12-speed drivetrain, hydraulic disc brakes, and high-traction tires for excellent performance on various terrains. Whether you're conquering steep climbs or tackling technical descents, the Bulls Six50 EVO AM 3 delivers an exceptional off-road experience.",
-    "price": 4999,
+    "price": 454999,
     "vehicle_type": "Bike",
     "release_year": 2021,
-    "rating": 4.7,
-    "maximum_power": 900
+    "rating": 9.2,
+    "maximum_power": 150
   },
   {
     "id": 37,
     "name": "Canyon Grail:ON",
     "brand": "Canyon",
     "imageUrl": [
-      "https://www.canyon.com/dw/image/v2/BCML_PRD/on/demandware.static/-/Sites-canyon-master/default/dwc55fa114/images/full/full_2021_/2021/full_2021_grail-on-cf-7_2551_gy-bk_P5.png",
-      "https://www.example.com/images/canyon-grail-on-2.jpg"
+      "https://www.canyon.com/dw/image/v2/BCML_PRD/on/demandware.static/-/Sites-canyon-master/default/dwc55fa114/images/full/full_2021_/2021/full_2021_grail-on-cf-7_2551_gy-bk_P5.png"
     ],
     "description": "The Canyon Grail:ON is an electric gravel bike that offers versatility and performance for adventurous riders. It features a lightweight and responsive carbon frame, paired with a powerful motor and a removable battery. With its 504Wh battery, the Grail:ON provides a range of up to 75 miles on a single charge. The bike comes equipped with a SRAM Force eTap AXS 1x12 drivetrain, hydraulic disc brakes, and wide tires for excellent off-road capability. Whether you're exploring gravel roads or embarking on bikepacking journeys, the Canyon Grail:ON delivers a thrilling and smooth ride.",
-    "price": 4799,
+    "price": 384799,
     "vehicle_type": "Bike",
     "release_year": 2022,
-    "rating": 4.4,
-    "maximum_power": 750
+    "rating": 9.3,
+    "maximum_power": 250
   },
   {
     "id": 38,
@@ -563,25 +434,24 @@
       "https://www.example.com/images/moustache-samedi-27-xroad-3-2.jpg"
     ],
     "description": "The Moustache Samedi 27 Xroad 3 is a versatile and comfortable electric bike designed for all-round performance. It features a sturdy frame, front suspension, and a powerful Bosch Performance Line motor. With its 625Wh battery, the Samedi 27 Xroad 3 offers a range of up to 110 miles on a single charge. The bike comes equipped with a Shimano Deore 10-speed drivetrain, hydraulic disc brakes, and puncture-resistant tires for smooth and reliable rides. Whether you're commuting, running errands, or exploring countryside paths, the Moustache Samedi 27 Xroad 3 is a reliable companion.",
-    "price": 4599,
+    "price": 59599,
     "vehicle_type": "Bike",
-    "release_year": 2022,
-    "rating": 4.6,
-    "maximum_power": 1000
+    "release_year": 2023,
+    "rating": 9.1,
+    "maximum_power": 250
   },
   {
     "id": 39,
     "name": "Specialized Turbo Vado SL 4.0 EQ",
     "brand": "Specialized",
     "imageUrl": [
-      "https://assets.specialized.com/i/specialized/93921-52_VADO-SL-40-ST-EQ-WHTSGE-BLKREFL_HERO",
-      "https://www.example.com/images/specialized-turbo-vado-sl-4-2.jpg"
+      "https://assets.specialized.com/i/specialized/93921-52_VADO-SL-40-ST-EQ-WHTSGE-BLKREFL_HERO "
     ],
     "description": "The Specialized Turbo Vado SL 4.0 EQ is a lightweight and efficient electric bike designed for urban commuting and fitness. It features a sleek and streamlined frame, integrated lights, and a powerful motor. With its 320Wh battery, the Turbo Vado SL 4.0 EQ offers a range of up to 80 miles on a single charge. The bike comes equipped with a Shimano Deore 10-speed drivetrain, hydraulic disc brakes, and wide tires for smooth and stable rides. Whether you're navigating city streets or taking on longer rides, the Specialized Turbo Vado SL 4.0 EQ delivers a fast and enjoyable cycling experience.",
-    "price": 3999,
+    "price": 203999,
     "vehicle_type": "Bike",
-    "release_year": 2021,
-    "rating": 4.5,
+    "release_year": 2023,
+    "rating": 9.3,
     "maximum_power": 240
   },
   {
@@ -589,149 +459,137 @@
     "name": "Giant Trance E+ 1 Pro",
     "brand": "Giant",
     "imageUrl": [
-      "https://images2.giant-bicycles.com/b_white,c_pad,h_600,q_80,w_800/pneayic9mna1hscv4iby/MY22TranceXEplus1Pro29_ColorAAmberGlow.jpg",
-      "https://www.example.com/images/giant-trance-eplus-1-pro-2.jpg"
+      "https://images2.giant-bicycles.com/b_white,c_pad,h_600,q_80,w_800/pneayic9mna1hscv4iby/MY22TranceXEplus1Pro29_ColorAAmberGlow.jpg"
     ],
     "description": "The Giant Trance E+ 1 Pro is a high-performance electric mountain bike designed for trail riding and exploration. It features a lightweight and durable ALUXX SL aluminum frame, paired with a powerful SyncDrive Pro motor and a long-lasting battery. With its 500Wh battery, the Trance E+ 1 Pro provides a range of up to 60 miles on a single charge. The bike comes equipped with a Shimano Deore XT 12-speed drivetrain, hydraulic disc brakes, and wide tires for excellent traction. Whether you're climbing steep hills or descending technical descents, the Giant Trance E+ 1 Pro delivers a responsive and thrilling off-road experience.",
-    "price": 5799,
+    "price": 65799,
     "vehicle_type": "Bike",
     "release_year": 2022,
-    "rating": 4.8,
-    "maximum_power": 1000
+    "rating": 9.0,
+    "maximum_power": 2606
   },
   {
     "id": 41,
     "name": "Scott Sub Active eRide",
     "brand": "Scott",
     "imageUrl": [
-      "https://asset.scott-sports.com/fit-in/2000x2000/280/280794_1699395_png_zoom_13.jpg?signature=2c6a9e668349179bb7bb8f2b0f5120af88ec74e234c16ad572372132695cd7c2",
-      "https://www.example.com/images/scott-sub-active-eride-2.jpg"
+      "https://asset.scott-sports.com/fit-in/2000x2000/280/280794_1699395_png_zoom_13.jpg?signature=2c6a9e668349179bb7bb8f2b0f5120af88ec74e234c16ad572372132695cd7c2"
     ],
     "description": "The Scott Sub Active eRide is a comfortable and versatile electric bike designed for everyday commuting and leisure rides. It features a step-through frame, front suspension, and a powerful Bosch Performance Line motor. With its 400Wh battery, the Sub Active eRide provides a range of up to 75 miles on a single charge. The bike comes equipped with a Shimano Deore 9-speed drivetrain, hydraulic disc brakes, and integrated lights for enhanced visibility. Whether you're cruising through the city or exploring scenic routes, the Scott Sub Active eRide offers a smooth and enjoyable riding experience.",
-    "price": 2699,
+    "price": 32699,
     "vehicle_type": "Bike",
-    "release_year": 2021,
-    "rating": 4.4,
-    "maximum_power": 500
+    "release_year": 2022,
+    "rating": 8.9,
+    "maximum_power": 250
   },
   {
     "id": 42,
     "name": "Cannondale Moterra Neo 5",
     "brand": "Cannondale",
     "imageUrl": [
-      "https://embed.widencdn.net/img/dorelrl/nojdhnbtok/2000px@1x/C21_C69201M_Moterra_Neo_5_MAT_PD.png",
-      "https://www.example.com/images/cannondale-moterra-neo-5-2.jpg"
+      "https://embed.widencdn.net/img/dorelrl/nojdhnbtok/2000px@1x/C21_C69201M_Moterra_Neo_5_MAT_PD.png"
     ],
     "description": "The Cannondale Moterra Neo 5 is a versatile and capable electric mountain bike built for off-road adventures. It features a durable aluminum frame, full suspension, and a powerful Bosch Performance Line CX motor. With its 500Wh battery, the Moterra Neo 5 provides a range of up to 60 miles on a single charge. The bike comes equipped with a Shimano Deore 10-speed drivetrain, hydraulic disc brakes, and grippy tires for excellent traction. Whether you're tackling challenging trails or exploring mountainous terrains, the Cannondale Moterra Neo 5 delivers a confident and thrilling ride.",
-    "price": 4699,
+    "price": 344699,
     "vehicle_type": "Bike",
-    "release_year": 2021,
-    "rating": 4.7,
-    "maximum_power": 1000
+    "release_year": 2023,
+    "rating": 9.5,
+    "maximum_power": 500
   },
   {
     "id": 43,
     "name": "Raleigh Redux IE",
     "brand": "Raleigh",
     "imageUrl": [
-      "https://electricbikereview.com/wp-content/assets/2019/01/2019-raleigh-redux-ie-electric-bike-review.jpg",
-      "https://www.example.com/images/raleigh-redux-ie-2.jpg"
+      "https://electricbikereview.com/wp-content/assets/2019/01/2019-raleigh-redux-ie-electric-bike-review.jpg"
     ],
     "description": "The Raleigh Redux IE is a versatile and agile electric bike designed for urban commuting and fitness rides. It features a lightweight and durable aluminum frame, paired with a powerful motor and a removable battery. With its 500Wh battery, the Redux IE offers a range of up to 60 miles on a single charge. The bike comes equipped with a Shimano Altus 9-speed drivetrain, hydraulic disc brakes, and puncture-resistant tires for reliable performance. Whether you're zipping through city traffic or enjoying weekend rides, the Raleigh Redux IE provides a smooth and efficient cycling experience.",
-    "price": 2699,
+    "price": 282699,
     "vehicle_type": "Bike",
-    "release_year": 2022,
-    "rating": 4.5,
-    "maximum_power": 500
+    "release_year": 2023,
+    "rating": 9.4,
+    "maximum_power": 750
   },
   {
     "id": 44,
     "name": "Trek Domane+ ALR",
     "brand": "Trek",
-    "imageUrl": [
-      "https://i.ytimg.com/vi/Y1LWPzm0MiI/maxresdefault.jpg",
-      "https://www.example.com/images/trek-domane-alr-2.jpg"
-    ],
+    "imageUrl": ["https://i.ytimg.com/vi/Y1LWPzm0MiI/maxresdefault.jpg"],
     "description": "The Trek Domane+ ALR is an electric road bike that combines the performance of a traditional road bike with the power and convenience of an electric motor. It features a lightweight aluminum frame, a carbon fork, and a reliable motor system. With its 500Wh battery, the Domane+ ALR offers a range of up to 70 miles on a single charge. The bike comes equipped with a Shimano 105 11-speed drivetrain, hydraulic disc brakes, and fast-rolling tires for efficient rides. Whether you're tackling long-distance rides or seeking an extra boost on hilly routes, the Trek Domane+ ALR delivers a smooth and exhilarating road cycling experience.",
-    "price": 4199,
+    "price": 54199,
     "vehicle_type": "Bike",
-    "release_year": 2021,
-    "rating": 4.6,
-    "maximum_power": 500
+    "release_year": 2023,
+    "rating": 9.5,
+    "maximum_power": 250
   },
   {
     "id": 45,
     "name": "Cube Reaction Hybrid EXC 625",
     "brand": "Cube",
     "imageUrl": [
-      "https://www.leisurelakesbikes.com/images/cube-reaction-exc-hybrid-blue-red.jpg",
-      "https://www.example.com/images/cube-reaction-hybrid-exc-625-2.jpg"
+      "https://www.leisurelakesbikes.com/images/cube-reaction-exc-hybrid-blue-red.jpg"
     ],
     "description": "The Cube Reaction Hybrid EXC 625 is a versatile and capable electric mountain bike designed for all-around performance. It features a durable aluminum frame, front suspension, and a powerful Bosch Performance Line CX motor. With its 625Wh battery, the Reaction Hybrid EXC 625 offers a range of up to 80 miles on a single charge. The bike comes equipped with a Shimano Deore 12-speed drivetrain, hydraulic disc brakes, and grippy tires for confident off-road riding. Whether you're conquering steep climbs or descending challenging trails, the Cube Reaction Hybrid EXC 625 delivers a responsive and exciting mountain biking experience.",
-    "price": 3599,
+    "price": 53599,
     "vehicle_type": "Bike",
-    "release_year": 2021,
-    "rating": 4.7,
-    "maximum_power": 1000
+    "release_year": 2022,
+    "rating": 9.4,
+    "maximum_power": 250
   },
   {
     "id": 46,
     "name": "Gazelle Ultimate C8+ HMB",
     "brand": "Gazelle",
     "imageUrl": [
-      "https://cloudinary.pondigital.solutions/pon-digital-solutions/image/upload/q_auto,f_auto/dmp.pon.bike/1280_sVR9wwcQ87h2.png",
-      "https://www.example.com/images/gazelle-ultimate-c8-hmb-2.jpg"
+      "https://cloudinary.pondigital.solutions/pon-digital-solutions/image/upload/q_auto,f_auto/dmp.pon.bike/1280_sVR9wwcQ87h2.png"
     ],
     "description": "The Gazelle Ultimate C8+ HMB is a comfortable and stylish electric bike designed for urban commuting and leisure rides. It features a step-through frame, a powerful Bosch Performance Line motor, and a removable battery. With its 500Wh battery, the Ultimate C8+ HMB provides a range of up to 80 miles on a single charge. The bike comes equipped with a Shimano Nexus 8-speed internal hub drivetrain, hydraulic disc brakes, and puncture-resistant tires for smooth and reliable rides. Whether you're navigating city streets or cruising along scenic pathways, the Gazelle Ultimate C8+ HMB offers a luxurious and enjoyable cycling experience.",
-    "price": 3699,
+    "price": 273699,
     "vehicle_type": "Bike",
-    "release_year": 2022,
-    "rating": 4.5,
-    "maximum_power": 500
+    "release_year": 2023,
+    "rating": 9.2,
+    "maximum_power": 250
   },
   {
     "id": 47,
     "name": "Focus Jam2 6.8 Nine",
     "brand": "Focus",
     "imageUrl": [
-      "https://d2yn9m4p3q9iyv.cloudfront.net/focus/2020/jam2-6.8-plus/thumbs/1000/38319.webp",
-      "https://www.example.com/images/focus-jam2-6.8-nine-2.jpg"
+      "https://d2yn9m4p3q9iyv.cloudfront.net/focus/2020/jam2-6.8-plus/thumbs/1000/38319.webp"
     ],
     "description": "The Focus Jam2 6.8 Nine is a high-performance electric mountain bike designed for trail enthusiasts and adventurous riders. It features a lightweight and robust aluminum frame, full suspension with 150mm of travel, and a powerful Bosch Performance CX motor. With its 625Wh battery, the Jam2 6.8 Nine offers a range of up to 75 miles on a single charge. The bike comes equipped with a SRAM GX Eagle 12-speed drivetrain, hydraulic disc brakes, and grippy tires for exceptional off-road performance. Whether you're conquering technical descents or climbing steep hills, the Focus Jam2 6.8 Nine delivers a responsive and thrilling ride.",
     "price": 5499,
     "vehicle_type": "Bike",
     "release_year": 2022,
-    "rating": 4.9,
-    "maximum_power": 1000
+    "rating": 8.9,
+    "maximum_power": 250
   },
   {
     "id": 48,
     "name": "Canyon Spectral:ON 6.0",
     "brand": "Canyon",
     "imageUrl": [
-      "https://cdn.mtbdatabase.com/wp-content/uploads/2021/08/15091930/2019-Canyon-SpectralON-6.0.jpg.webp",
-      "https://www.example.com/images/canyon-spectral-on-6-2.jpg"
+      "https://cdn.mtbdatabase.com/wp-content/uploads/2021/08/15091930/2019-Canyon-SpectralON-6.0.jpg.webp"
     ],
     "description": "The Canyon Spectral:ON 6.0 is a versatile and capable electric mountain bike built for all-mountain adventures and trail riding. It features a lightweight and sturdy aluminum frame, full suspension with 150mm of travel, and a powerful Shimano EP8 motor. With its 625Wh battery, the Spectral:ON 6.0 offers a range of up to 70 miles on a single charge. The bike comes equipped with a SRAM NX Eagle 12-speed drivetrain, hydraulic disc brakes, and grippy tires for excellent traction on various terrain. Whether you're tackling technical descents or climbing challenging trails, the Canyon Spectral:ON 6.0 delivers a responsive and thrilling off-road experience.",
-    "price": 4999,
+    "price": 324999,
     "vehicle_type": "Bike",
-    "release_year": 2021,
-    "rating": 4.8,
-    "maximum_power": 1000
+    "release_year": 2019,
+    "rating": 8.8,
+    "maximum_power": 300
   },
   {
     "id": 49,
     "name": "Merida eOne-Sixty 8000",
     "brand": "Merida",
     "imageUrl": [
-      "https://delen.s3.ap-southeast-1.amazonaws.com/Merida_e_ONE_SIXTY_8000_carbike360_com_ext_1_5ce9f559af.jpg",
-      "https://www.example.com/images/merida-eone-sixty-8000-2.jpg"
+      "https://delen.s3.ap-southeast-1.amazonaws.com/Merida_e_ONE_SIXTY_8000_carbike360_com_ext_1_5ce9f559af.jpg"
     ],
     "description": "The Merida eOne-Sixty 8000 is a high-performance electric mountain bike designed for adrenaline-seeking riders and challenging terrains. It features a lightweight carbon frame, full suspension with 160mm of travel, and a powerful Shimano EP8 motor. With its 630Wh battery, the eOne-Sixty 8000 offers a range of up to 75 miles on a single charge. The bike comes equipped with a Shimano XT 12-speed drivetrain, hydraulic disc brakes, and grippy tires for exceptional off-road performance. Whether you're hitting fast descents or conquering steep climbs, the Merida eOne-Sixty 8000 delivers a responsive and exhilarating ride.",
-    "price": 7299,
+    "price": 307299,
     "vehicle_type": "Bike",
-    "release_year": 2021,
-    "rating": 4.9,
-    "maximum_power": 1000
+    "release_year": 2022,
+    "rating": 8.9,
+    "maximum_power": 250
   }
 ]

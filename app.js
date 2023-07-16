@@ -11,7 +11,7 @@ connectDb(process.env.MONGODB_URL);
 
 app.get("/", (req, res) => {
   res.send(
-    "Hi, Welcome to my own API, you can redirect to the https://guruapi-production.up.railway.app/api/products"
+    "Hi, Welcome to my own API"
   );
 });
 
